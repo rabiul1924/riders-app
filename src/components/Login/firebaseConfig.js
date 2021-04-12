@@ -1,10 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyD-DpagvZ-OTvxZ3aIFoA4-0OvzIjn0TP4",
-  authDomain: "running-shop-1b9e0.firebaseapp.com",
-  projectId: "running-shop-1b9e0",
-  storageBucket: "running-shop-1b9e0.appspot.com",
-  messagingSenderId: "776579214992",
-  appId: "1:776579214992:web:ab1f32e7acaa9aeeacf215"
+  apiKey: "AIzaSyBYzHiy3CyoTZ_oQaxrd2FLi9VaAj1TlpM",
+  authDomain: "test-aef3a.firebaseapp.com",
+  projectId: "test-aef3a",
+  storageBucket: "test-aef3a.appspot.com",
+  messagingSenderId: "616870180234",
+  appId: "1:616870180234:web:909d48069b95753b434473"
 };
-
 export default firebaseConfig;
