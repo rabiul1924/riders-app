@@ -15,5 +15,4 @@ Website install:
 
 Happy coding****(-.-)
 
-######Warning::::
- reload when you try to LOgin 
+
