@@ -14,3 +14,6 @@ Website install:
 5.google map /react google map
 
 Happy coding****(-.-)
+
+######Warning::::
+ reload when you try to LOgin 
